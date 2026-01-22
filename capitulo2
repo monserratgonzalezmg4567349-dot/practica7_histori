@@ -35,3 +35,25 @@
                 <td>Salida del Castillo de Arendelle.</td>
             </tr>
             <tr>
+                 <td>Tarde</td>
+                <td>Encuentro con Olaf en el Bosque.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Compañeros de Aventura</h3>
+    <ol>
+        <li>Olaf (El muñeco de nieve).</li>
+        <li>Sven (El reno).</li>
+        <li>Kristoff (El recolector de hielo).</li>
+    </ol>
+
+    <hr>
+    <nav>
+        <a href="capitulo1.html">Volver al Inicio</a>
+        
+    </nav>
+
+</body>
+
+</html>

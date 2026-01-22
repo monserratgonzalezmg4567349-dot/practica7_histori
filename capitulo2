@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Capítulo 2: El Bosque de Niebla</title>
+</head>
+
+<body   >
+
+    <h1>Capítulo 2: El Encuentro con Olaf</h1>
+
+    <p>Las hermanas se adentraron en el espeso bosque, donde la niebla era tan cerrada que apenas podían ver sus propios
+        pies. De repente, una risa familiar rompió el silencio; era Olaf, quien intentaba atrapar hojas de otoño que
+        flotaban mágicamente en un remolino de viento, ajeno al peligro del frío repentino.</p>
+
+    <p>Elsa utilizó sus poderes para crear un camino de hielo que las guiara a través del pantano. Anna, siempre atenta,
+        notó que las runas antiguas en las piedras comenzaban a brillar, indicando que estaban muy cerca de descubrir el
+        origen de la anomalía climática que amenazaba su hogar.</p>
+
+    <img src="imagenes/img3.jpg" alt="Bosque Encantado" width="400">
+    <img src="imagenes/img5.jpg" alt="Olaf en la nieve" width="400">
+
+    <h3>Cronología del Viaje</h3>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Tiempo</th>
+                <th>Suceso</th>
+            </tr>
+        </thead>
+        <tbody>
+          
